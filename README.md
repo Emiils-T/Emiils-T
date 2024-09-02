@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on **Banking App**<br>🌱 I’m currently learning **Laravel**<br>💬 Ask me about **PHP, Adobe Illustrator or Fusion 360**<br>
+Passionate Web Developer on a mission to craft elegant code
+
+
+🔭 I’m currently working on **Banking App**<br>🌱 I’m currently learning **Frontend**<br>💬 Ask me about **PHP, Laravel or Fusion 360**<br>
 
 
 ## 🌐 Socials:
