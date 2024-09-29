@@ -4,7 +4,7 @@ Dedicated Web Developer focused on creating efficient and robust solutions.
 
 
 - 🎨 Diving deep into the colorful world of **Frontend Development**
-- 🛠️ Always tinkering with **PHP, Laravel, and Fusion 360**
+- 🛠️ Always tinkering with **PHP, Laravel**
 
 
 ## 🌐 Socials:
